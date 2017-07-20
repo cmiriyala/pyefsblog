@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2a5a1466-b90b-42bc-913a-09c9cb62615a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/efsblog/settings.py" afterPath="$PROJECT_DIR$/efsblog/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/efsblog/wsgi.py" afterPath="$PROJECT_DIR$/efsblog/wsgi.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -91,7 +90,7 @@
         <entry file="file://$PROJECT_DIR$/efsblog/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="672">
-              <caret line="151" column="13" lean-forward="true" selection-start-line="151" selection-start-column="13" selection-end-line="151" selection-end-column="13" />
+              <caret line="151" column="12" lean-forward="true" selection-start-line="151" selection-start-column="12" selection-end-line="151" selection-end-column="12" />
               <folding>
                 <element signature="e#311#320#0" expanded="true" />
               </folding>
@@ -558,7 +557,7 @@
     <entry file="file://$PROJECT_DIR$/efsblog/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="672">
-          <caret line="151" column="13" lean-forward="true" selection-start-line="151" selection-start-column="13" selection-end-line="151" selection-end-column="13" />
+          <caret line="151" column="12" lean-forward="true" selection-start-line="151" selection-start-column="12" selection-end-line="151" selection-end-column="12" />
           <folding>
             <element signature="e#311#320#0" expanded="true" />
           </folding>
