@@ -78,10 +78,15 @@ WSGI_APPLICATION = 'efsblog.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'd11eleiq49949h',
+        'USER': 'ujbznvfzbaxqrf',
+        'PASSWORD': 'f363c35e6bee9703e305a2d7ffaa1cdbe3c92db21527154487965b3eed9feb27',
+        'HOST': 'ec2-23-21-158-253.compute-1.amazonaws.com',
+        'PORT': '5432',
     }
 }
+
 
 
 # Password validation
